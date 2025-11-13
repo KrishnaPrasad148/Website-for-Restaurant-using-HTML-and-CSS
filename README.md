@@ -43,7 +43,7 @@ Register No. : 212223230108
 ```
 
 
-### index.html
+### i) index.html
 ```html
 
 <!DOCTYPE html>
@@ -116,7 +116,7 @@ Register No. : 212223230108
 </html>
 
 ```
-### styles.css
+### ii) styles.css
 ```css
 * {
   margin: 0;
