@@ -1,4 +1,4 @@
-# EX03 Creating a Restaurant Website using HTML and CSS
+# EX07 Creating a Restaurant Website using HTML and CSS
 
 ### Date: 13/11/25  
 
