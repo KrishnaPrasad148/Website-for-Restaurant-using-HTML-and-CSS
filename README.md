@@ -33,7 +33,7 @@ Add hover effects, background images, and shadow effects to improve interactivit
 ### Step 7:
 Review and finalize the design.
 
----
+
 
 ## PROGRAM:
 ```
@@ -331,8 +331,11 @@ body {
 
 
 ## OUTPUT:
+<img width="1919" height="920" alt="web1" src="https://github.com/user-attachments/assets/5785eb82-e99a-4b16-97a1-b19d014d7bd6" />
 
+<img width="1895" height="910" alt="web2" src="https://github.com/user-attachments/assets/06bad8ba-3059-4317-b1a0-019c8262d27e" />
 
+<img width="1919" height="923" alt="web3" src="https://github.com/user-attachments/assets/0108921b-1d72-4b4c-8309-99acb7bf05e4" />
 
 ## RESULT:
 The Restaurant Website was successfully created using **HTML and CSS** with a clean and responsive design.
